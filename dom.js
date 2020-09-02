@@ -1,2 +1,1 @@
-<script>document.getElementById("list1").style.color = "green";
-</script>
+document.getElementById("list1").style.color = "green";
